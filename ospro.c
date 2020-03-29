@@ -24,7 +24,7 @@ int main()
   {
     printf("\t\t|  P[%0.0lf]   |       %0.0lf      |     %0.0lf      |\n",process[i],burst_time[i],arrival_time[i]);
   }
-    printf("\t\t\........................................\n");
+    printf("\t\t........................................\n");
 
 
   printf("\n\n\t\t--: sorting process table a/c to arrival time :--\n");
